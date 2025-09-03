@@ -1,6 +1,4 @@
-# COP4600-Group-40-PA1
-
-# Project Overview
+# Programming Assignment 1 Overview
 
 In this project, we will implement three process scheduling algorithms in Python using ChatGPT as our primary coding assistant. Our goal is to simulate CPU scheduling for multiple processes and calculate key metrics such as turnaround time, waiting time, and response time.
 
