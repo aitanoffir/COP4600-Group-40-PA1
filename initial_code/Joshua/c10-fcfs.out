@@ -1,0 +1,62 @@
+10 processes
+Using First Come First Serve
+Time   0 : P01 arrived
+Time   0 : P01 selected (burst   5)
+Time   1 : P04 arrived
+Time   5 : P02 arrived
+Time   5 : P01 finished
+Time   5 : P02 arrived
+Time   5 : P02 selected (burst   9)
+Time   9 : P03 arrived
+Time  10 : P05 arrived
+Time  12 : P07 arrived
+Time  13 : P10 arrived
+Time  14 : P02 finished
+Time  14 : Idle
+Time  15 : Idle
+Time  16 : Idle
+Time  17 : Idle
+Time  18 : Idle
+Time  19 : Idle
+Time  20 : Idle
+Time  21 : Idle
+Time  22 : Idle
+Time  23 : P06 arrived
+Time  23 : P06 selected (burst   4)
+Time  25 : P08 arrived
+Time  27 : P06 finished
+Time  27 : Idle
+Time  28 : Idle
+Time  29 : Idle
+Time  30 : P09 arrived
+Time  30 : P09 selected (burst   7)
+Time  37 : P09 finished
+Time  37 : Idle
+Time  38 : Idle
+Time  39 : Idle
+Time  40 : Idle
+Time  41 : Idle
+Time  42 : Idle
+Time  43 : Idle
+Time  44 : Idle
+Time  45 : Idle
+Time  46 : Idle
+Time  47 : Idle
+Time  48 : Idle
+Time  49 : Idle
+Time  50 : Idle
+Time  51 : Idle
+Time  52 : Idle
+Time  53 : Idle
+Time  54 : Idle
+Finished at time  55
+P01 wait   0 turnaround  5 response   0
+P04 did not finish
+P02 wait   0 turnaround  9 response   0
+P03 did not finish
+P05 did not finish
+P07 did not finish
+P10 did not finish
+P06 wait   0 turnaround  4 response   0
+P08 did not finish
+P09 wait   0 turnaround  7 response   0
