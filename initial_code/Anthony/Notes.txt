@@ -1,0 +1,5 @@
+Running and testing a file example:
+
+emacs scheduler.py    #Optional
+python3 scheduler.py Sample_Test_Files/c2-fcfs.in
+diff -y Output_Files/c2-fcfs.out Sample_Test_Files/c2-fcfs.out -s
