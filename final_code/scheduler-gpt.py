@@ -1,3 +1,6 @@
+#Group-40 Members: Aitan Offir, Andres Arzola, Anthony Mahon, Ethan Niessner, Joshua Larenas
+
+
 #!/usr/bin/env python3
 import sys
 import os
