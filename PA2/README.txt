@@ -5,7 +5,15 @@ Andres Arzola - https://claude.ai/share/f33e5ab8-a3b8-4d33-af5d-aa96f8fabd1c
 LLM Prompting Process:
 
 Ethan - 
-	My invovlement in the programming assignment was creating the Makefile. With ChatGPT I gave it all the necessary files needed to create the Makefile. Afterwards I helped trying to solve an issue with the wait times not being in the correct order, and the hash values not being correct.
+	For this assignment I used ChatGPT to help me understand what the assignment wanted
+and how I should approach it. My role in the project was to generate the Makefile so that
+everything would run when called. I also helped with correcting the errors in our output.
+We were having issues where the hash table not giving us the correct wait order and our
+hash values not being the correct value. I asked ChatGPT to help with this issue and it
+gave us some reasons to why it wasn't working. For the hash wait times it gave us the reason
+behind why the hash wait order was wrong. For the values it was possibly due to a wrong hash 
+sequence or white space errors. After this we were able to verify everything else and turn 
+in the assignment.
 
 
 Anthony -
@@ -32,5 +40,6 @@ of the code and verified that everything was working as expected. There was an e
 up in VS Code that I did not understand, but once asking Claude about it, I understood that 
 I was getting this error because of a lack of some native support for these header files on 
 Windows as compared to Linux. Using Claude was extremely helpful and insightful for this project. 
+
 
 
