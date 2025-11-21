@@ -22,4 +22,14 @@ exactly we were testing. The use of Gemini AI was extremely helpful in solving t
 problem we were presented with. 
 
 Andres - 
-	For this project I used Claude AI to help me understand how everything was structured and what needed to be done. At this point we had done the synchronization aspects of the project and we still had the hash table and main program left. So, I decided to undergo completing the hash table. I gave Claude a word document that gave it all of the requirements of the assignment and several text files for the inputs and outputs. Then, I asked it to generate the hash table program with its corresponding header file. I then went over all of the code and verified that everything was working as expected. There was an error popping up in VS Code that I did not understand, but once asking Claude about it, I understood that I was getting this error because of a lack of some native support for these header files on Windows as compared to Linux. Using Claude was extremely helpful and insightful for this project. 
+	For this project I used Claude AI to help me understand how everything was structured 
+and what needed to be done. At this point we had done the synchronization aspects of the 
+project and we still had the hash table and main program left. So, I decided to undergo 
+completing the hash table. I gave Claude a word document that gave it all of the requirements 
+of the assignment and several text files for the inputs and outputs. Then, I asked it to 
+generate the hash table program with its corresponding header file. I then went over all 
+of the code and verified that everything was working as expected. There was an error popping 
+up in VS Code that I did not understand, but once asking Claude about it, I understood that 
+I was getting this error because of a lack of some native support for these header files on 
+Windows as compared to Linux. Using Claude was extremely helpful and insightful for this project. 
+
